@@ -1,6 +1,8 @@
 body {background-image: url(https://s7d2.scene7.com/is/image/TWCNews/kentucky_basketball_bbm_court_ky_0925);
 background-repeat: no-repeat;
-background-size:cover;}
+background-size:cover;
+background-position:center;
+background-attachment:fixed;}
 h1{font-size: 40px;
 color: white;
 text-align: center;}

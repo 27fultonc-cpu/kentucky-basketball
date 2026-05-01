@@ -15,5 +15,11 @@ text-align: left;}
 .item p {color: white;
 text-align: left;
 font-size: 30px;}
+h4{font-size: 40px;
+color: white;
+text-align: left;}
+.item p {color: white;
+text-align: left;
+font-size: 30px;}
 .established {font-style: italic;}
 ul {color: white; background-color: black; width: fit-content; padding:0;}

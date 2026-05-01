@@ -26,3 +26,7 @@ ul {color: white; background-color: black; width: fit-content; padding:0;}
 .picture{
   width: 300px;
   height: auto;}
+a {color: white;}
+a: visited {color:white;}
+a: hover {color: white;}
+

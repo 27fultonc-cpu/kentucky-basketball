@@ -23,3 +23,6 @@ text-align: left;
 font-size: 30px;}
 .established {font-style: italic;}
 ul {color: white; background-color: black; width: fit-content; padding:0;}
+.picture{
+  width: 300px;
+  height: auto;}

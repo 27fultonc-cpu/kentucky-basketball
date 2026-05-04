@@ -25,7 +25,8 @@ font-size: 30px;}
 ul {color: white; background-color: black; width: fit-content; padding:0;}
 .picture{
   width: 300px;
-  height: auto;}
+  height: auto;
+padding-right: 1000px;}
 a {color: white;}
 a: visited {color:white;}
 a: hover {color: white;}

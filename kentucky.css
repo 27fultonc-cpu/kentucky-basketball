@@ -30,4 +30,6 @@ padding-right: 1000px;}
 a {color: white;}
 a: visited {color:white;}
 a: hover {color: white;}
+input[type="radio"] {
+  accent-color: white;}
 

@@ -30,6 +30,9 @@ padding-right: 1000px;}
 a {color: white;}
 a: visited {color:white;}
 a: hover {color: white;}
-input[type="radio"] {
-  accent-color: white;}
+input[type="radio"]:checked {
+  background-color: white; /* Fills the whole circle when checked */
+  border-color: white;
+  /* Changes the color of all radio buttons to green when selected */
+input[type="radio"] {color: white;}
 

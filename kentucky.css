@@ -5,7 +5,8 @@ background-position:center;
 background-attachment:fixed;}
 h1{font-size: 40px;
 color: white;
-text-align: center;}
+text-align: center;
+text-decoration: underline;}
 h2{font-size: 40px;
 color:white; 
 text-align: left;}

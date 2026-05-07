@@ -5,8 +5,7 @@ background-position:center;
 background-attachment:fixed;}
 h1{font-size: 40px;
 color: white;
-text-align: center;
-text-decoration: underline;}
+text-align: center;}
 h2{font-size: 40px;
 color:white; 
 text-align: left;}
@@ -22,7 +21,6 @@ text-align:left;}
 .item p {color: white;
 text-align: left;
 font-size: 30px;}
-.established {font-style: italic;}
 ul {color: white; background-color: black; width: fit-content; padding:0;}
 .picture{
   width: 300px;
@@ -32,7 +30,7 @@ a {color: white;}
 a: visited {color:white;}
 a: hover {color: white;}
 radio{color:white;}
-h1 {
-  text-decoration: underline;
-}
+.poll-container{color: white;}
+form{color:white;}
+.color{color:white;}
 
